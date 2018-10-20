@@ -109,5 +109,6 @@
     <script src="./js/inlineDisqussions.js"></script>
 
     <noscript>Enable JavaScript for footnotes, Disqus comments, and other cool stuff.</noscript>
+      </!-- jQuery-->
     </body>
     </html>
