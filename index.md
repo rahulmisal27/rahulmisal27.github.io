@@ -79,15 +79,15 @@
 <a href="/Projects.html">
 <div class="post">
 <img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="images/post-covers/building_blocks.png">
-<h3 style="margin-top:4px; font-size:95%;">Collge Time Projects</h3>
+<h2 style="margin-top:4px; font-size:95%;">Collge Time Projects</h2>
 </div>
 </a>
 
 <a href="https://www.kaggle.com/rdmisal/world-data-analysis">
 <div class="post">
 <img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="images/post-covers/feature-visualization.png">
-<h3 style="margin-top:0px; font-size:95%;">World Data Analysis</h3>
-<h4>Exploring World Data</h4>
+<h2 style="margin-top:0px; font-size:95%;">Data Science Projects</h2>
+<h4>Checkout all data science projects</h4>
 <h4 style="margin-top:8px;"><i>On Distill</i></h4>
 </div>
 </a>
