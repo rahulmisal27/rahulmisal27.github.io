@@ -79,15 +79,15 @@
 <a href="/Projects.html">
 <div class="post">
 <img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="/PSFix_20180625_065903.jpeg">
-<h2 style="margin-top:8px; font-size:95%;">Collge Time Projects</h2>
+<h4 style="margin-top:8px; font-size:95%;">Collge Time Projects</h4>
 </div>
 </a>
 
 <a href="https://www.kaggle.com/rdmisal/world-data-analysis">
 <div class="post">
 <img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="images/post-covers/feature-visualization.png">
-<h2 style="margin-top:8px; font-size:95%;">Data Science Projects</h2>
-<h4>Checkout all data science projects</h4>
+<h4 style="margin-top:8px; font-size:95%;">Data Science Projects</h4>
+<h2>Checkout all data science projects</h2>
 </div>
 </a>
 
@@ -109,7 +109,5 @@
     <script src="./js/inlineDisqussions.js"></script>
 
     <noscript>Enable JavaScript for footnotes, Disqus comments, and other cool stuff.</noscript>
-
     </body>
-
-</html>
+    </html>
