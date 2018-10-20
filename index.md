@@ -76,11 +76,10 @@
 
 <h2>Recent Exciting Things!</h2>
 
-<a href="https://www.kaggle.com/rdmisal/titanic-analysis">
+<a href="/Projects.html">
 <div class="post">
 <img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="images/post-covers/building_blocks.png">
-<h3 style="margin-top:4px; font-size:95%;">Titanic</h3>
-<h4 style="margin-top:16px;"><i>On Distill</i></h4>
+<h3 style="margin-top:4px; font-size:95%;">Collge Time Projects</h3>
 </div>
 </a>
 
