@@ -1,3 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Home - colah's blog</title>
+
 Profile:
 
 Being a technophile, I am creative, hardworking and principle centered individual who always eager to learn new technologies and strives to achieve the highest standard possible, at any given task. My greatest strengths are strong numerical and analytical skills, ability explorer and Ability to work as individual as well as in group. I always want to utilize all my knowledge and experiences resulting with an innovative approach.
