@@ -78,24 +78,19 @@
 
 <a href="/Projects.html">
 <div class="post">
-<img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="/PSFix_20180625_065903.jpeg">
+<img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="/projects.png">
 <h4 style="margin-top:8px; font-size:95%;">Collge Time Projects</h4>
 </div>
 </a>
 
 <a href="https://www.kaggle.com/rdmisal/world-data-analysis">
 <div class="post">
-<img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="images/post-covers/feature-visualization.png">
+<img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="/download.jpeg">
 <h4 style="margin-top:8px; font-size:95%;">Data Science Projects</h4>
 <h2>Checkout all data science projects</h2>
 </div>
 </a>
-
-
-                </div>
-            </div>
-
-    <!-- jQuery-->
+<!-- jQuery-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 
@@ -109,6 +104,6 @@
     <script src="./js/inlineDisqussions.js"></script>
 
     <noscript>Enable JavaScript for footnotes, Disqus comments, and other cool stuff.</noscript>
-      </!-- jQuery-->
+</!-- jQuery-->
     </body>
     </html>
