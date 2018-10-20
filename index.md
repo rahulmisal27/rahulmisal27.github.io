@@ -78,7 +78,7 @@
 
 <a href="/Projects.html">
 <div class="post">
-<img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="images/post-covers/building_blocks.png">
+<img style="width:90%; height: 90%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="/PSFix_20180625_065903.jpeg">
 <h2 style="margin-top:8px; font-size:95%;">Collge Time Projects</h2>
 </div>
 </a>
