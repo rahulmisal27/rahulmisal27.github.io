@@ -15,9 +15,9 @@ Education:
 PROFESSIONAL EXPERIENCE:
 
 02/2018-today       Associate Software Engineer 
-    • 6+ months of experience in delivering Client testing requirement by doing manual as well as automation testing using tools like HP ALM, UFT, Selenium, Cucumber, Apache  Jmeter and Tosca.
-    • Responsible for test planning, test preparation, test execution and test closure for many different projects.
-    • Familiar with Software Development Lifecycle as well as Software Testing Lifecycle with its different methodologies.
+                   • 6+ months of experience in delivering Client testing requirement by doing manual as well as automation                        testing using tools like HP ALM, UFT, Selenium, Cucumber, Apache  Jmeter and Tosca.
+                   • Responsible for test planning, test preparation, test execution and test closure for many different                          projects.
+                   • Familiar with Software Development Lifecycle as well as Software Testing Lifecycle with its different                        methodologies.
 
 
  
@@ -25,7 +25,7 @@ Skills:-
 
 Computer Language Known:    Core Java, Python.
 
-Communication:   Strong written as well as verbal command over English, Hindi and Marathi.                                                                                
+Communication:              Strong written as well as verbal command over English, Hindi and Marathi.                                                                                
 
 Certifications:- 
     • Tosca Certifications(AS1,AS2,AE1,TDS1,TDS2)
@@ -33,14 +33,16 @@ Certifications:-
     • Google Analytics 
     • Hardware and Networking
     • MSCIT
+    
+    
 
 Extra-curricular activities: 
 
-        2014.2017 Leadership Activities
-Represented class for three years by successfully organizing many cultural and academic activities.
+2014- 2017       Leadership Activities
+                 Represented class for three years by successfully organizing many cultural and academic activities.
 
-2012- 2014     Sports Activities
-Participation in sports like karate, athletics at district level.                                                       
+2012- 2014       Sports Activities
+                 Participation in sports like karate, athletics at district level.                                                       
 
 Hobbies: 
  
