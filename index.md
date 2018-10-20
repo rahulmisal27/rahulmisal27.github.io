@@ -6,6 +6,10 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <title>Home - Rahul Misal</title>
         <body>
-        </body>
-        </html>
+        
+    <noscript>Enable JavaScript for footnotes, Disqus comments, and other cool stuff.</noscript>
+
+    </body>
+
+</html>
     
