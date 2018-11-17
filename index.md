@@ -1,5 +1,4 @@
-<!DOCTYPE HTML>
-<html lang="en">
+
 <head>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="styles.css">
@@ -54,7 +53,6 @@
 <div class="post">
 <img style="width:20%; height: 20%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="/download.jpeg">
 <h4 style="margin-top:8px; font-size:95%;">Data Science Projects</h4>
-<legend>Checkout all data science projects</legend>
 </div>
 </a>
 
