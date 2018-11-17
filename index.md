@@ -1,8 +1,20 @@
-<html>
-    <head>Rahul Misal</head>
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="styles.css">
+	<title>HTML5 Tutorial</title>
+	<script src="excanvas.js"></script>
+</head>
+    <h2>Rahul Misal</h2>
 <body>
-   
 
+  <p>
+    Being a technophile, I am creative, hardworking and principle centered individual who always
+    eager to learn new technologies and strives to achieve the highest standard possible, at any
+    given task. My greatest strengths are strong numerical and analytical skills, ability explorer and
+    Ability to work as individual as well as in group. I always want to utilize all my knowledge and
+    experiences resulting with an innovative approach.  </p>
     <div class="container">
         <div class="col-sm-10 col-sm-offset-1" id="indexwrapper">
 
