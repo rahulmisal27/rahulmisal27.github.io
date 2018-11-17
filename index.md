@@ -28,14 +28,14 @@
 <a href="/Projects.html">
 <div class="post">
 <img style="width:20%; height: 20%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="/projects.png">
-<h4 style="margin-top:8px; font-size:95%;">Collge Time Projects</h4>
+<h1 style="margin-top:8px; font-size:95%;">Collge Time Projects</h1>
 </div>
 </a>
 
 <a href="https://www.kaggle.com/rdmisal/world-data-analysis">
 <div class="post">
 <img style="width:20%; height: 20%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="/download.jpeg">
-<h4 style="margin-top:8px; font-size:95%;">Data Science Projects</h4>
+<h1 style="margin-top:8px; font-size:95%;">Data Science Projects</h1>
 </div>
 </a>
 
