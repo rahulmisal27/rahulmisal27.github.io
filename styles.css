@@ -1,6 +1,6 @@
 /* Change the color of all text in h1 tags */
 h1 {
-	color : purple;
+	color : blue;
 }
 
 /* Change the color of links in the document based on events */
