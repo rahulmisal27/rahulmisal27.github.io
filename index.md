@@ -55,6 +55,3 @@
 <h4 style="margin-top:8px; font-size:95%;">Data Science Projects</h4>
 </div>
 </a>
-
-</body>
-</html>
