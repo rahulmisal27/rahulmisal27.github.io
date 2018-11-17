@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="/styles.css">
 	<title>HTML5 Tutorial</title>
-	<script src="excanvas.js"></script>
+	<script src="/excanvas.js"></script>
 </head>
     <h2>Rahul Misal</h2>
 <body>
