@@ -1,4 +1,5 @@
-
+<!DOCTYPE HTML>
+<html lang="en">
 <head>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="styles.css">
@@ -25,7 +26,7 @@
    bottom: 10px;
    width: 24px;
    height: 24px;
-   background-image: url(data:rahulmisal27.github.io/PSFix_20180625_065903.jpeg;base64,);
+   background-image: url(data:/home/rahul/Pictures/IMG_20180610_081623220.jpg;base64,);
    background-size: contain;
    background-repeat: no-repeat; }
  </style>
@@ -53,5 +54,9 @@
 <div class="post">
 <img style="width:20%; height: 20%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="/download.jpeg">
 <h4 style="margin-top:8px; font-size:95%;">Data Science Projects</h4>
+<legend>Checkout all data science projects</legend>
 </div>
 </a>
+
+</body>
+</html>
