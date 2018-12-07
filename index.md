@@ -1,62 +1,141 @@
-<!DOCTYPE HTML>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<link rel="stylesheet" href="styles.css">
-	<title>HTML5 Tutorial</title>
-	<script src="excanvas.js"></script>
-</head>
-    <h2>Rahul Misal</h2>
-<body>
-  <style type="text/css">
-   .connect-icon{text-align: right;}
-   .connect-icon a{
-     margin-top: 15%;
-     margin-left: 10px;}
-   .connect-icon a:hover{opacity: 0.5;transition: all 0.5s ease;}
-  .connect-icon a.behance{margin-top: -10px;}
-   .arrowbob {
-   z-index: 0;
-   position: relative;
-   -webkit-box-shadow: 0px 10px 43px -14px rgba(0, 0, 0, 0.25);
-   -moz-box-shadow: 0px 10px 43px -14px rgba(0, 0, 0, 0.25);
-   box-shadow: 0px 10px 43px -14px black;
-   margin: auto;
-   margin-top: 320px;
-   bottom: 10px;
-   width: 24px;
-   height: 24px;
-   background-image: url(data:/home/rahul/Pictures/IMG_20180610_081623220.jpg;base64,);
-   background-size: contain;
-   background-repeat: no-repeat; }
- </style>
-  <p>
-    Being a technophile, I am creative, hardworking and principle centered individual who always
-    eager to learn new technologies and strives to achieve the highest standard possible, at any
-    given task. My greatest strengths are strong numerical and analytical skills, ability explorer and
-    Ability to work as individual as well as in group. I always want to utilize all my knowledge and
-    experiences resulting with an innovative approach.  </p>
-    <div class="container">
-        <div class="col-sm-10 col-sm-offset-1" id="indexwrapper">
+<!DOCTYPE html>
+<html>
+<title>Rahul Resume</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+<body class="w3-light-grey">
 
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
 
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+          <img src="/w3images/avatar_hat.jpg" style="width:100%" alt="Avatar">
+          <div class="w3-display-bottomleft w3-container w3-text-black">
+            <h2>Rahul Misal</h2>
+          </div>
+        </div>
+        <div class="w3-container">
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Associate Software Engineer</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Pune, Maharashtra</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>rahulmisal27@gmail.com</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>7020567703</p>
+          <hr>
 
-<h2>Recent Exciting Things!</h2>
+          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+          <p>Automation Testing</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+          </div>
+          <p>Machine Learning</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
+              <div class="w3-center w3-text-white">80%</div>
+            </div>
+          </div>
+          <p>Digital Marketing</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">75%</div>
+          </div>
+          <p>Media</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
+          </div>
+          <br>
 
-<a href="/Projects.html">
-<div class="post">
-<img style="width:20%; height: 20%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="/projects.png">
-<h4 style="margin-top:8px; font-size:95%;">Collge Time Projects</h4>
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+          <p>English</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
+          </div>
+          <p>Hindi</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:55%"></div>
+          </div>
+          <p>Marathi</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div>
+          </div>
+          <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Associate Software Engineer / Accenture</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <p>• 6+ months of experience in delivering Client testing requirement by
+doing manual as well as automation testing using tools like HP ALM,
+UFT, Selenium, Cucumber, Apache Jmeter and Tosca.</p>
+
+<p>• Responsible for test planning, test preparation, test execution and
+test closure for many different projects.</p>
+
+<p>• Familiar with Software Development Lifecycle as well as Software
+Testing Lifecycle with its different methodologies.</p>
+          <hr>
+        </div>
+        
+
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>W3Schools.com</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Forever</h6>
+          <p>Web Development! All I need to know in one place</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>London Business School</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2013 - 2015</h6>
+          <p>Master Degree</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>School of Coding</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2010 - 2013</h6>
+          <p>Bachelor Degree</p><br>
+        </div>
+      </div>
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
 </div>
-</a>
 
-<a href="https://www.kaggle.com/rdmisal/world-data-analysis">
-<div class="post">
-<img style="width:20%; height: 20%; margin-left: 5%; margin-top: 5%; margin-bottom: 5%;" src="/download.jpeg">
-<h4 style="margin-top:8px; font-size:95%;">Data Science Projects</h4>
-<legend>Checkout all data science projects</legend>
-</div>
-</a>
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+  <p>Find me on social media.</p>
+  <i class="fa fa-facebook-official w3-hover-opacity"></i>
+  <i class="fa fa-instagram w3-hover-opacity"></i>
+  <i class="fa fa-snapchat w3-hover-opacity"></i>
+  <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+  <i class="fa fa-twitter w3-hover-opacity"></i>
+  <i class="fa fa-linkedin w3-hover-opacity"></i>
+
+</footer>
 
 </body>
 </html>
