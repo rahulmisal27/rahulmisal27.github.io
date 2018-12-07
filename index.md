@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <title>Rahul Resume</title>
 <meta charset="UTF-8">
