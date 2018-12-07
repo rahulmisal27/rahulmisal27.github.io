@@ -137,5 +137,3 @@ Testing Lifecycle with its different methodologies.</p>
 
 </footer>
 
-</body>
-</html>
