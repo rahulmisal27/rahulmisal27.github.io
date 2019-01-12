@@ -70,28 +70,28 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
               <br>
 
           <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Certifications</b></p>
-          <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Tosca Certifications(AS1,AS2,
-          AE1,TDS1,TDS2)</a>
+          <p href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Tosca Certifications(AS1,AS2,
+          AE1,TDS1,TDS2)</p>
           <div >
            
           </div>
-         <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Python for data science</a>
+         <p href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Python for data science</p>
           <div >
           
           </div>
-          <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Machine Learning with Python(IBM Cognitive Class)</a>
+          <p href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Machine Learning with Python(IBM Cognitive Class)</p>
           <div>
           
            </div>
-          <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Google Analytics</a>
+          <p href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Google Analytics</p>
           <div>
           
           </div>
-          <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Hardware and Networking</a>
+          <p href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Hardware and Networking</p>
           <div>
           
            </div>
-            <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• MSCIT</a>
+            <p href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• MSCIT</p>
           <div>
           
            </div>
