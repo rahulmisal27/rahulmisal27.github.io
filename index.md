@@ -69,13 +69,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           
               <br>
 
-          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Certifications</b></p>
-          <p href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Tosca Certifications(AS1,AS2,
-          AE1,TDS1,TDS2)</p>
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-black"></i>Certifications</b></p>
+          <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Tosca Certifications(AS1,AS2,
+          AE1,TDS1,TDS2)</a>
           <div >
            
           </div>
-         <p href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Python for data science</p>
+         <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Python for data science</a>
           <div >
           
           </div>
@@ -83,15 +83,15 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <div>
           
            </div>
-          <p href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Google Analytics</p>
+          <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Google Analytics</a>
           <div>
           
           </div>
-          <p href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Hardware and Networking</p>
+          <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Hardware and Networking</a>
           <div>
           
            </div>
-            <p href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• MSCIT</p>
+            <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• MSCIT</a>
           <div>
           
            </div>
@@ -216,4 +216,3 @@ Average Grade: 77/100</p>
   <i class="fa fa-linkedin w3-hover-opacity"></i>
 
 </footer>
-
