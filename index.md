@@ -52,6 +52,54 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           
           <br>
 
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Computer Languages</b></p>
+          <p>Python</p>
+          <div class="w3-light-grey w3-round-xlarge">
+           
+          </div>
+          <p>Java</p>
+          <div class="w3-light-grey w3-round-xlarge">
+          
+          </div>
+          <p>VBScript</p>
+          <div class="w3-light-grey w3-round-xlarge">
+          
+          </div>
+          <br>
+          
+              <br>
+
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Certifications</b></p>
+          <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Tosca Certifications(AS1,AS2,
+          AE1,TDS1,TDS2)</a>
+          <div class="w3-light-grey w3-round-xlarge">
+           
+          </div>
+         <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Python for data science</a>
+          <div class="w3-light-grey w3-round-xlarge">
+          
+          </div>
+          <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Machine Learning with Python(IBM Cognitive Class)</a>
+          <div class="w3-light-grey w3-round-xlarge">
+          
+           </div>
+          <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Google Analytics</a>
+          <div class="w3-light-grey w3-round-xlarge">
+          
+          </div>
+          <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• Hardware and Networking</a>
+          <div class="w3-light-grey w3-round-xlarge">
+          
+           </div>
+            <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">• MSCIT</a>
+          <div class="w3-light-grey w3-round-xlarge">
+          
+           </div>
+          
+          <br>
+          
+               <br>
+
           <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
           <p>English</p>
           <div class="w3-light-grey w3-round-xlarge">
@@ -76,9 +124,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <div class="w3-twothird">
     
       <div class="w3-container w3-card w3-white w3-margin-bottom">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Associate Software Engineer / Accenture</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Associate Software Engineer / Accenture</b></h5>
+          <h5 class="w3-opacity"><b></b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Feb 2018 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
           <p>• 6+ months of experience in delivering Client testing requirement by
 doing manual as well as automation testing using tools like HP ALM,
@@ -107,6 +155,44 @@ Testing Lifecycle with its different methodologies.</p>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2012 - 2014</h6>
           <p>Yashwantrao Chavan Institute of Science, Satara</p><p>
 Average Grade: 77/100</p>
+          <br>
+        </div>
+      </div>
+          <div class="w3-one">
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-30"><i class="fa fa-globe fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Projects List</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Data Science</b></h5>
+                   <p>Please find all Machine learning Jupyter notebooks below
+</p>
+          <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">Click here</a>
+          <hr>
+        </div>
+        
+
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-30"></i></h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>College Projects</b></h5>
+     
+          <a href="https://github.com/Rahulmisal27/rahulmisal27.github.io/blob/master/Electron%20theorr_1472464672.pdf" class="btn btn-primary">Electron theory in Metals</a>
+          <hr>
+        </div>
+        
+        
+        
+        
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-30"></i></h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Data Science</b></h5>
+                   <p>Please find all Machine learning Jupyter notebooks below
+</p>
+          <a href="https://github.com/Rahulmisal27/DataScience" class="btn btn-primary">Click here</a>
+          <hr>
+        </div>
           <br>
         </div>
       </div>
