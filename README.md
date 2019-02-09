@@ -1,8 +1,10 @@
-# rahulmisal27.github.io
+ This is my official Portfolio repository.
+ 
+ Please find Portfolio on link https://rahulmisal27.github.io/ 
 
-This repository contains list of all Projects wich has done during the college time. 
+This repository contains all Projects wich has done during the college time and In my professional life in IT. 
 
-You will also find my resume on the above link.
+
 
 
 
